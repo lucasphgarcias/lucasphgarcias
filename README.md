@@ -1,10 +1,12 @@
 <div>  
+  <img align="right" alt="Lucas Garcias-GIT" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-128/github-40-432516.png">  
   <img align="right" alt="LucasGarcias-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
   <img align="right" alt="LucasGarcias-NODEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"> 
   <img align="right" alt="LucasGarcias-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="LucasGarcias-CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="right" alt="LucasGarcias-HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
- </div>
+  
+</div>
 
  <div>
      <a href="https://github.com/lucasphgarcias">
