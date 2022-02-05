@@ -18,18 +18,18 @@
 </br>
  <div dsplay="inline">
      <a href="https://github.com/lucasphgarcias">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasphgarcias&show_icons=true&include_all_commits=true&count_private=true&custom_title=Progresso do meu perfil&bg_color=22272e&hide_border=true&text_color=D3D3D3&title_color=FFFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasphgarcias&show_icons=true&include_all_commits=true&count_private=true&custom_title=Stats my profile&bg_color=22272e&hide_border=true&text_color=D3D3D3&title_color=FFFF" />
  </div>
   <div>
 <!---<a href="www.linkedin.com/in/lucasrgarcias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> --->
   </div>
 
-## 🧠 O que venho aprendendo atualmente ? 
-###### Focado nos estudos sobre JavaScript e seus ecossistemas (NodeJs, React e React Native) no curso da 🚀 RocketSeat.
+## 🧠 What I'm currently learning ?
+###### Focused on studies on JavaScript and its ecosystems (NodeJs, React and React Native) in the 🚀 RocketSeat course.
 
-## 🎯 Objetivo  
-###### ✔ Aprender e contribuir no aprendizado sobre programação.
-###### ✔ Em busca do próximo nível!
+## 🎯 what are my goals ? 
+###### ✔ Learn and contribute to learning about programming.
+###### ✔ In search of the next level!🥇🥈🥉🏅🎖️🏆
   
 ##
 <!---<p align="center">
