@@ -25,7 +25,7 @@
   </div>
 
 ## 🧠 What I'm currently learning ?
-###### Deepening knowledge in .Net (C#) and learning JavaScript and its ecosystems (NodeJs, React and React Native) in the 🚀 RocketSeat course.
+###### Deepening knowledge in .Net (C#) and learning JavaScript and its ecosystems (NodeJs, React and React Native) in the RocketSeat course 🚀.
 
 ## 🎯 what are my goals ? 
 ###### ✔ Learn and contribute to learning about programming.
