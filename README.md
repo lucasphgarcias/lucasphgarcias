@@ -9,8 +9,8 @@
   
   <img align="left" alt="LucasGarcias-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">  
   <img align="left" alt="LucasGarcias-NODEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"> 
-<img align="left" alt="LucasGarcias-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
-  <img align="left" alt="Lucas Garcias-GIT" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-128/github-40-432516.png">   
+  <img align="left" alt="LucasGarcias-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+  <img align="left" alt="Lucas Garcias-GIT" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-128/github-40-432516.png">
  
   
 </div>
