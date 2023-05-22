@@ -1,5 +1,5 @@
 ## Lucas Garcias
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/lucasphgarcias/lucasphgarcias/blob/main/AvatarLG.png">
+<!--<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/lucasphgarcias/lucasphgarcias/blob/main/AvatarLG.png">-->
 </br>
 </br>
 <div dsplay="inline">  
